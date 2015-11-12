@@ -1,0 +1,18 @@
+{
+    "name": "nodejs-extension",
+    "version": "1.0.0",
+    "description": "new component",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/davchang/nodejs-extension.git"
+    },
+    "author": "David Y Chang",
+    "bugs": {
+        "url": "https://github.com/davchang/nodejs-extension.git"
+    },
+    "homepage": "https://github.com/davchang/nodejs-extension.git",
+    "dependencies": {
+        "bluebird": "^2.10.2",
+        "superagent": "^1.4.0"
+    }
+}
